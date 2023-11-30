@@ -1,0 +1,33 @@
+{ "ingredients": [
+          {
+            "id": 1,
+            "name": "Biscuit",
+            "img": "https://s7d1.scene7.com/is/image/mcdonalds/biscuit"
+          },
+          {
+            "id": 2,
+            "name": "Folded Egg",
+            "img": "https://s7d1.scene7.com/is/image/mcdonalds/folded_egg"
+          },
+          {
+            "id": 3,
+            "name": "Pasteurized Process American Cheese",
+            "img": "https://s7d1.scene7.com/is/image/mcdonalds/ingredient_american_cheese_180x180"
+          },
+          {
+            "id": 4,
+            "name": "Thick Cut Applewood Smoked Bacon",
+            "img": "https://s7d1.scene7.com/is/image/mcdonalds/applewood_bacon"
+          },
+          {
+            "id": 5,
+            "name": "Salted Butter",
+            "img": "https://s7d1.scene7.com/is/image/mcdonalds/butter_salted"
+          },
+          {
+            "id": 6,
+            "name": "Clarified Butter",
+            "img": "https://s7d1.scene7.com/is/image/mcdonalds/clarified_butter"
+          }
+    ]
+}
